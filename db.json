@@ -1,0 +1,22 @@
+{
+  "users_table": [
+    {
+      "id": "x83jH2sEXMEVulT22JnfA",
+      "username": "omar",
+      "hashed_password": "$2b$10$d8QoJd8UZE44m7D5jzkJ4OCSH2oslp1I7ujLmzaXb6TvxC98bfiCS",
+      "created_at": "2025-06-07T17:36:05.599Z"
+    }
+  ],
+  "links_table": [
+    {
+      "id": "QF88k2NKGxpyQCjpZprwo",
+      "original_url": "http://www.google.com",
+      "short_slug": "446E8",
+      "created_by": null,
+      "created_at": "2025-06-07T18:31:32.428Z",
+      "expires_at": null,
+      "click_count": 1,
+      "password_hash": null
+    }
+  ]
+}
